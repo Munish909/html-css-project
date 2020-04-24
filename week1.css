@@ -53,7 +53,7 @@ article{
     margin: 0px 60px 0px 60px;
 }
 article:first-child{
-    background-color: rgb(172, 88, 175);
+    color:  red;
 }
 
 
